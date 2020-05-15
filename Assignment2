@@ -172,39 +172,4 @@ In a text file answers.txt, answer these questions:
     Do the same for .reduce and .reduceByKey. Which is more like the MapReduce concept of reducing?
     When finding popular Wikipedia pages, the maximum number of page views is certainly unique, but the most popular page might be a tie. What would your improved Python implementation do if there were two pages with the same highest number of page views in an hour? What would be necessary to make your code find all of the pages views the maximum number of times? (Again, you don't have to actually implement this.) 
 
-Submission
-
-Submit your files to the CourSys activity Assignment 2.
-Updated Tue Aug. 27 2019, 21:34 by ggbaker.
-CourSys is hosted by SFU Computing Science.
-
-    Admission
-    Programs
-    Learning
-    Research
-    Community
-    About
-
-    Maps + directions
-    Library
-    Academic Calendar
-    Road Report
-    Give to SFU
-
-    Connect with us
-
-    Facebook
-    Twitter
-    YouTube
-
-    Contact us
-
-    Simon Fraser University
-    8888 University Drive
-    Burnaby, B.C.
-    Canada V5A 1S6
-
-    Terms and conditions
-    © Simon Fraser University
-
 
