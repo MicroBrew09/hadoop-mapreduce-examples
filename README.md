@@ -8,7 +8,7 @@ $ hadoop-3.2.0/sbin/stop-all.sh
 
 
 $ export HADOOP_CLASSPATH = $(hadoop classpath) \
-$ echo $HADOOP_CLASSPATH (Checks hadoop classpath) \
+$ echo $HADOOP_CLASSPATH (Checks hadoop classpath) 
 
 Hadoop HDFS Helpful Commands: \
 $ hdfs dfs -ls \
@@ -16,7 +16,7 @@ $ hdfs dfs -mkdir \
 $ hdfs dfs -put 'sample.txt' /user/test/sampl.txt \
 $ hdfs dfs -cat /user/view*\
 $ hdfs dfs -copyFromLocal 'local_directory/path' /hdfs_directory/path/\
-$ hdfs dfs -rm -r /hdfs/file/delete \
+$ hdfs dfs -rm -r /hdfs/file/delete 
  
  Map Reduce Steps: 
  1. Create the .java files for Map-Reduce (javafile.java). Create Input folder on HDFS with the input text files. 
